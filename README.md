@@ -13,6 +13,14 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos acadêmicos e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Experiência
+
+### 📊 Inovato/UFT — Agência de Inovação da Universidade Federal do Tocantins
+
+Atuação com **análise e visualização de dados**, incluindo o desenvolvimento de um **dashboard em Power BI** para apoiar o acompanhamento e a apresentação de informações e indicadores da agência.
+
+Essa experiência envolveu organização de dados, construção de visualizações e transformação de informações em painéis mais claros para acompanhamento institucional.
+
 ## Projetos em destaque
 
 ### ♟️ Projeto de Xadrez em Java
@@ -29,7 +37,7 @@ Projeto de análise de dados utilizando SQL e SQLite, com uma base amostral de e
 
 ## Análise de dados
 
-Também utilizo **Power BI** para organização, análise e visualização de dados, criação de dashboards e apresentação de indicadores de forma clara e objetiva.
+Utilizo **Power BI** para organização, análise e visualização de dados, criação de dashboards e apresentação de indicadores de forma clara e objetiva.
 
 ## Atualmente estudando
 
