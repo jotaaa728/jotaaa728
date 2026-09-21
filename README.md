@@ -53,12 +53,6 @@ Utilizo **Power BI** para organização, análise e visualização de dados, cri
 - Programação Orientada a Objetos
 - Desenvolvimento de Software
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotaaa728&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaa728&layout=compact)
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Mateus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-mateus-monteiro-batista-733911218)
