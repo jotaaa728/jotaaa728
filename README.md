@@ -15,11 +15,14 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos acadêmicos e
 
 ## Experiência
 
-### 📊 Inovato/UFT — Agência de Inovação da Universidade Federal do Tocantins
+### 📊 Estagiário — Agência de Inovação da UFT (Inovato)
+**set. de 2025 — atualmente**
 
-Atuação com **análise e visualização de dados**, incluindo o desenvolvimento de um **dashboard em Power BI** para apoiar o acompanhamento e a apresentação de informações e indicadores da agência.
+Atuação em atividades de comunicação e tecnologia, incluindo **gravação de vídeos e fotos, edição de conteúdo, programação e produção de posts**.
 
-Essa experiência envolveu organização de dados, construção de visualizações e transformação de informações em painéis mais claros para acompanhamento institucional.
+Durante o estágio, participei também do desenvolvimento do **Painel de Dados Abertos de Propriedade Intelectual e Transferência de Tecnologia – UFT**, utilizando **Power BI** para organizar, visualizar e apresentar dados e indicadores institucionais.
+
+Essa experiência tem fortalecido meus conhecimentos em **análise de dados, visualização de informações, comunicação digital e desenvolvimento de soluções aplicadas ao contexto institucional**.
 
 ## Projetos em destaque
 
