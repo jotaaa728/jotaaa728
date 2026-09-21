@@ -22,6 +22,8 @@ Atuação em atividades de comunicação e tecnologia, incluindo **gravação de
 
 Durante o estágio, participei também do desenvolvimento do **Painel de Dados Abertos de Propriedade Intelectual e Transferência de Tecnologia – UFT**, utilizando **Power BI** para organizar, visualizar e apresentar dados e indicadores institucionais.
 
+[![Ver Dashboard no Power BI](https://img.shields.io/badge/Ver%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDdiZWJmZWUtNDhjZC00MjdjLWFmZWUtN2EyNzljMWVmODQzIiwidCI6ImNkNTFhOTYzLWRiNDctNDhlZi05ZDFjLWU4MzIzYjYyYTQzMSJ9)
+
 Essa experiência tem fortalecido meus conhecimentos em **análise de dados, visualização de informações, comunicação digital e desenvolvimento de soluções aplicadas ao contexto institucional**.
 
 ## Projetos em destaque
