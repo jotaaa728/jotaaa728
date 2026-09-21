@@ -1,14 +1,15 @@
 # Olá, eu sou João Mateus 👋
 
-Sou estudante de **Ciência da Computação na Universidade Federal do Tocantins (UFT)**, com interesse em desenvolvimento de software, programação e análise de dados.
+Sou estudante de **Ciência da Computação na Universidade Federal do Tocantins (UFT)**, com interesse em desenvolvimento de software, programação, análise de dados e visualização de informações.
 
-Atualmente busco aprimorar meus conhecimentos por meio de projetos acadêmicos e práticos, utilizando principalmente **Java, C e SQL**.
+Atualmente busco aprimorar meus conhecimentos por meio de projetos acadêmicos e práticos, utilizando principalmente **Java, C, SQL e Power BI**.
 
 ## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -26,10 +27,15 @@ Projeto de análise de dados utilizando SQL e SQLite, com uma base amostral de e
 
 🔗 [Ver projeto](https://github.com/jotaaa728/sql-business-portfolio)
 
+## Análise de dados
+
+Também utilizo **Power BI** para organização, análise e visualização de dados, criação de dashboards e apresentação de indicadores de forma clara e objetiva.
+
 ## Atualmente estudando
 
 - Desenvolvimento em Java
 - SQL e Banco de Dados
+- Power BI e visualização de dados
 - Estruturas de Dados
 - Programação Orientada a Objetos
 - Desenvolvimento de Software
